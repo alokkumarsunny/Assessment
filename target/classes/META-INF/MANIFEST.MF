@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: 117220902
+Class-Path: mysql-connector-java-8.0.23.jar protobuf-java-3.11.4.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: com.accela.emp.ApplicationContoller
+
